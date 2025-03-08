@@ -1,4 +1,4 @@
-local DrRayLibrary = loadstring(game:HttpGet("https://pastebin.com/raw/ykMUeEri"))()
+local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/Smolp1/Ghi/refs/heads/main/Camera.lua"))()
 
 local window = DrRayLibrary:Load("The apocalypse", "Default")
 
